@@ -8,6 +8,7 @@ MEXVOFD Python Package
 Authors:
 ---------
 Daniel Clemente-Lopez (Developer and Coder)
+
 Jesus M. Munoz-Pacheco (Conceptualization, Methodology, and Validation)
 
 Overview
