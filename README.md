@@ -89,4 +89,11 @@ License
 -------
 The MEXVOFD package is open-source software released under the --MIT License--.
 
+Citation
+-------
+Bugs, Comments, and Collaborations send email to:
+jesusm.pacheco@correo.buap.mx
+
+CITED AS: Unified scientific tool to investigate fractional derivatives of arbitrary variable order with time-memory and order-memory: The MEXVOFD Python package; Daniel Clemente-López, Jesus M. Munoz-Pacheco , José de Jesus Rangel-Magdaleno, April 2025 (pre-print).
+
 
