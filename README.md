@@ -5,6 +5,11 @@ MEXVOFD Python package (Mexican Variable-Order Fractional Derivatives Python pac
 MEXVOFD Python Package
 ======================
 
+Authors:
+---------
+Daniel Clemente-Lopez (Developer and Coder)
+Jesus M. Munoz-Pacheco (Conceptualization, Methodology, and Validation)
+
 Overview
 --------
 The --MEXVOFD Python package-- provides tools for simulating and solving --Variable-Order Fractional Derivatives (VOFD)-- in dynamical systems. This package is designed for researchers and practitioners to analyze and visualize systems modeled with variable-order derivatives, such as chaotic systems, hereditary processes, and control strategies.
